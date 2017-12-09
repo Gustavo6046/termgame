@@ -1,0 +1,35 @@
+{
+  "name": "termgame",
+  "version": "0.1.0",
+  "description": "A sprite-based terminal 2D game engine in Node.JS (experiment).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gustavo6046/termgame.git"
+  },
+  "keywords": [
+    "game",
+    "engine",
+    "terminal",
+    "ascii",
+    "2d",
+    "sprite"
+  ],
+  "author": "Gustavo Rehermann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gustavo6046/termgame/issues"
+  },
+  "homepage": "https://github.com/Gustavo6046/termgame#readme",
+  "dependencies": {
+    "ces": "0.0.4",
+    "clear": "0.0.1",
+    "figlet": "^1.2.0",
+    "keypress": "^0.2.1",
+    "tar": "^4.1.1"
+  },
+  "devDependencies": {}
+}
